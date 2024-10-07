@@ -7,12 +7,88 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Tetetete</copyright><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>MyFirstBlog</title>
-        <link>http://localhost:1313/p/myfirstblog/</link>
+        <title>Documentation</title>
+        <link>http://localhost:1313/p/documentation/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/myfirstblog/</guid>
-        <description></description>
+        <guid>http://localhost:1313/p/documentation/</guid>
+        <description>&lt;h4 id=&#34;documentation-for-hugo-website&#34;&gt;Documentation for Hugo Website
+&lt;/h4&gt;&lt;h2 id=&#34;step-1-installing-hugo&#34;&gt;Step 1: Installing Hugo
+&lt;/h2&gt;&lt;p&gt;First, I downloaded and installed Hugo, a powerful static site generator. This was the starting point for creating my website.&lt;/p&gt;
+&lt;h2 id=&#34;step-2-downloading-a-theme&#34;&gt;Step 2: Downloading a Theme
+&lt;/h2&gt;&lt;p&gt;I then visited the Hugo website and downloaded a theme that suited my requirements. All subsequent modifications and content additions were based on this theme.&lt;/p&gt;
+&lt;h2 id=&#34;step-3-customization&#34;&gt;Step 3: Customization
+&lt;/h2&gt;&lt;p&gt;I customized the theme by changing the profile picture and adding decorative images to personalize the website.&lt;/p&gt;
+&lt;h2 id=&#34;step-4-content-creation&#34;&gt;Step 4: Content Creation
+&lt;/h2&gt;&lt;p&gt;Under the content/post/ directory, I created several pages, including a personal introduction, resume, documentation, and a report on my previous internship experience.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;The entire process involved setting up Hugo, customizing a theme, and adding content to create a personalized, professional website.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Internship work</title>
+        <link>http://localhost:1313/p/internship-work/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/internship-work/</guid>
+        <description>&lt;h4 id=&#34;some-pictures-from-my-report-in-internship-when-i-worked-in-ipsos&#34;&gt;Some pictures from my report in internship when I worked in Ipsos
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/internship-work/ipsos1.png&#34;
+	width=&#34;2974&#34;
+	height=&#34;1683&#34;
+	srcset=&#34;http://localhost:1313/p/internship-work/ipsos1_hu3805493223221955315.png 480w, http://localhost:1313/p/internship-work/ipsos1_hu12332153865401185668.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Conducting research we used for pharmaceutical companies. &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;424px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/internship-work/ipsos2.png&#34;
+	width=&#34;2971&#34;
+	height=&#34;1675&#34;
+	srcset=&#34;http://localhost:1313/p/internship-work/ipsos2_hu14045134666068046097.png 480w, http://localhost:1313/p/internship-work/ipsos2_hu10579375567728706718.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Conducting research we used for pharmaceutical companies.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/internship-work/ipsos3.png&#34;
+	width=&#34;2977&#34;
+	height=&#34;1671&#34;
+	srcset=&#34;http://localhost:1313/p/internship-work/ipsos3_hu13085287227480186575.png 480w, http://localhost:1313/p/internship-work/ipsos3_hu11126607882231031680.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The plot that we used data analysis to create.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/internship-work/ipsos4.png&#34;
+	width=&#34;2971&#34;
+	height=&#34;1675&#34;
+	srcset=&#34;http://localhost:1313/p/internship-work/ipsos4_hu4064462437431079196.png 480w, http://localhost:1313/p/internship-work/ipsos4_hu14737540309782394309.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The plot shows that how to choose the patient distribution.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Resume</title>
@@ -78,17 +154,17 @@
         </item>
         <item>
         <title>Self-introduction</title>
-        <link>http://localhost:1313/p/test-chinese/</link>
+        <link>http://localhost:1313/p/self-introduction/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/test-chinese/</guid>
+        <guid>http://localhost:1313/p/self-introduction/</guid>
         <description>&lt;h2 id=&#34;about-me&#34;&gt;About me
 &lt;/h2&gt;&lt;p&gt;My name is Yate Zhang. I am Chinese and moved to the USA when I was 14 years old. I completed my high school education in Pensacola, Florida, and earned my undergraduate degree in Statistics from SUNY Buffalo. Initially, I pursued Computer Science during my freshman year but switched to Statistics in my sophomore year as I found Computer Science to be quite challenging. I am currently studying Data Science at Northwestern University. While it may sound daunting, I am dedicated to improving my coding skills and doing my best in this field.&lt;/p&gt;
 &lt;h2 id=&#34;graph&#34;&gt;Graph
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/coding.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/self-introduction/coding.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;1024&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/coding_hu7121050639221747846.jpg 480w, http://localhost:1313/p/test-chinese/coding_hu13804562557099960442.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/self-introduction/coding_hu7121050639221747846.jpg 480w, http://localhost:1313/p/self-introduction/coding_hu13804562557099960442.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by ChatGPT&#34;
