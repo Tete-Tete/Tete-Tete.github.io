@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Tetetete</title>
-        <link>https://Tete-Tete.github.io/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on Tetetete</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Tetetete</copyright><atom:link href="https://Tete-Tete.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Tetetete</copyright><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>MyFirstBlog</title>
-        <link>https://Tete-Tete.github.io/p/myfirstblog/</link>
+        <link>http://localhost:1313/p/myfirstblog/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Tete-Tete.github.io/p/myfirstblog/</guid>
+        <guid>http://localhost:1313/p/myfirstblog/</guid>
         <description></description>
         </item>
         <item>
         <title>Resume</title>
-        <link>https://Tete-Tete.github.io/p/resume/</link>
+        <link>http://localhost:1313/p/resume/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Tete-Tete.github.io/p/resume/</guid>
+        <guid>http://localhost:1313/p/resume/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Yate Zhang&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:Yatezhang123@gmail.com&#34; &gt;Yatezhang123@gmail.com&lt;/a&gt;, 850-533-2734, 211 E. Delaware, Apt 804, Chicago, IL 60611&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/p&gt;
@@ -78,17 +78,17 @@
         </item>
         <item>
         <title>Self-introduction</title>
-        <link>https://Tete-Tete.github.io/p/test-chinese/</link>
+        <link>http://localhost:1313/p/test-chinese/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Tete-Tete.github.io/p/test-chinese/</guid>
+        <guid>http://localhost:1313/p/test-chinese/</guid>
         <description>&lt;h2 id=&#34;about-me&#34;&gt;About me
 &lt;/h2&gt;&lt;p&gt;My name is Yate Zhang. I am Chinese and moved to the USA when I was 14 years old. I completed my high school education in Pensacola, Florida, and earned my undergraduate degree in Statistics from SUNY Buffalo. Initially, I pursued Computer Science during my freshman year but switched to Statistics in my sophomore year as I found Computer Science to be quite challenging. I am currently studying Data Science at Northwestern University. While it may sound daunting, I am dedicated to improving my coding skills and doing my best in this field.&lt;/p&gt;
 &lt;h2 id=&#34;graph&#34;&gt;Graph
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://Tete-Tete.github.io/p/test-chinese/coding.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/coding.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;1024&#34;
-	srcset=&#34;https://Tete-Tete.github.io/p/test-chinese/coding_hu7121050639221747846.jpg 480w, https://Tete-Tete.github.io/p/test-chinese/coding_hu13804562557099960442.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/coding_hu7121050639221747846.jpg 480w, http://localhost:1313/p/test-chinese/coding_hu13804562557099960442.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by ChatGPT&#34;
